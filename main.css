@@ -8,6 +8,11 @@ h2 {
 }
 
 h3 {
-  background: #0000CD;
+  background: #0000cd;
+  color: #ffffff;
+}
+
+footer {
+  background: #000000;
   color: #ffffff;
 }
